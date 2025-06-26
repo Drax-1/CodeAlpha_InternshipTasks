@@ -8,6 +8,12 @@ A simple yet powerful Python-based network packet analyzer using **Scapy** and *
 
 ---
 
+## VIDEO
+
+https://github.com/user-attachments/assets/1aff11bb-498c-4c10-b012-a04c90c4cacf
+
+---
+
 ## 🔧 Features
 
 - 🧼 Clean CLI interface for packet capturing
@@ -30,6 +36,7 @@ A simple yet powerful Python-based network packet analyzer using **Scapy** and *
 
 pip install scapy
 
+---
 
 ▶️ **How to Run**
 
