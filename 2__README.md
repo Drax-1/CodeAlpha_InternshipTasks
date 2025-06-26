@@ -6,6 +6,12 @@ This project demonstrates the setup and execution of **Snort 3 (Snort++)** on Ka
 
 ---
 
+## VIDEO
+
+https://github.com/user-attachments/assets/45efc90d-8ee0-4e50-8593-161e5745138f
+
+---
+
 ## 🔧 Prerequisites
 
 - Kali Linux (tested on latest version)
@@ -86,18 +92,5 @@ Rules: /opt/snort3/etc/snort/
 
 Binaries: /usr/local/bin/
 
-
-https://github.com/user-attachments/assets/45efc90d-8ee0-4e50-8593-161e5745138f
-
-
-
-https://github.com/user-attachments/assets/45efc90d-8ee0-4e50-8593-161e5745138f
-
-
 Logs (if enabled): /var/log/snort/
-
-
-## VIDEO
-
-
 
