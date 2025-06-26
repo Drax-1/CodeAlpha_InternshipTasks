@@ -81,6 +81,7 @@ Snort will print alerts like:
 ---
 
 📦 Useful Snort Directories
+
 Rules: /opt/snort3/etc/snort/
 
 Binaries: /usr/local/bin/
