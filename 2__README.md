@@ -86,4 +86,18 @@ Rules: /opt/snort3/etc/snort/
 
 Binaries: /usr/local/bin/
 
+
+https://github.com/user-attachments/assets/45efc90d-8ee0-4e50-8593-161e5745138f
+
+
+
+https://github.com/user-attachments/assets/45efc90d-8ee0-4e50-8593-161e5745138f
+
+
 Logs (if enabled): /var/log/snort/
+
+
+## VIDEO
+
+
+
